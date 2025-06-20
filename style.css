@@ -1,0 +1,19 @@
+body {
+    justify-content: center;
+    background-color: blueviolet;
+
+}
+
+
+.main-container {
+    flex-wrap: nowrap;
+}
+.first-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    
+}
+.name-price {
+    justify-self: center;
+}
